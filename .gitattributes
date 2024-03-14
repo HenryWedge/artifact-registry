@@ -1,0 +1,1 @@
+discovery-heuristics-miner-0.0.2-jar-with-dependencies.jar filter=lfs diff=lfs merge=lfs -text
